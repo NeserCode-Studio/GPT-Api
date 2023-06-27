@@ -17,14 +17,6 @@ Then use npm to install this project dependencies.
 npm i
 ```
 
-Most importantly: don't forget to change the parameters in the configuration file to your own。
-
-Finally, you can run to deploy a server.
-
-```shell
-npm run serve
-```
-
 ## Usage
 
 ### I Replace key
@@ -34,12 +26,13 @@ First, you should replace your key in src/config.js
 ```js
 $OPENAI_API_KEY = "YOUR_KEY"
 ```
+Do not forget other params.
 
 ### II Run server
 
 Then, you can run server by:
 
-```npm
+```shell
 npm run server
 ```
 
