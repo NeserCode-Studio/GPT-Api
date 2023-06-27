@@ -5,16 +5,24 @@ This server contain some simple api to request, and all usage will be simple and
 
 ## Installation
 
-use git to clone this project, and install all dependencies.
+Use git to clone this project, and install all dependencies.
 
-```git
+```shell
 git clone http://github.com/NeserCode/GPT-Api.git
 ```
 
-or use npm to install this project.
+Then use npm to install this project dependencies.
 
-```npm
-npm i @nesercode/gpt-api
+```shell
+npm i
+```
+
+Most importantly: don't forget to change the parameters in the configuration file to your own。
+
+Finally, you can run to deploy a server.
+
+```shell
+npm run serve
 ```
 
 ## Usage
