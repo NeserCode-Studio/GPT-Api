@@ -1,4 +1,5 @@
 # GPT-Api
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/NeserCode-Studio/GPT-Api)
 
 Chat GPT api (in Openai.com) help you to build a Node.js server(Express.js) to connect with Openai GPT API.
 This server contain some simple api to request, and all usage will be simple and easy to use in offical way.
